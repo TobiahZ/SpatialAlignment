@@ -595,9 +595,9 @@ PlayerSettings:
   metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 80afae2a479cd501
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
